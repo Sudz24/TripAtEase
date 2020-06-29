@@ -24,3 +24,5 @@ TripAtEase is a mocked Travel Agency company. The application has been developed
 - Clone the repo, and run the App folder. (react-native start && react-native run-android)
 
 > **Working APKs** are also uploaded to download!
+
+- The App Screenshots are uploaded for quick reference!
