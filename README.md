@@ -6,6 +6,7 @@ TripAtEase is a mocked travel agency company. The application has been developed
 - React Native (CLI) 
 - AWS EC2 
 - AWS RDS
+- AWS Cognito
 - Flask
 - SQL Alchemy 
 
