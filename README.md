@@ -28,3 +28,5 @@ TripAtEase is a mocked travel agency company. The application has been developed
 > **Working APKs** are also uploaded to download.
 
 - The app screenshots are uploaded for quick reference.
+
+- Demo video link: https://drive.google.com/file/d/180OJVPSmjnCLsKsI_SXTOpHFFm026WkB/view?usp=sharing
