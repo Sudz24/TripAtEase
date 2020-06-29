@@ -1,0 +1,15 @@
+jid,fromCity,toCity,fare,company,dateArr,dateDep,timeArr,timeDep,seats,mode
+1,Chennai (CHN),Hyderabad (HYD),1600,AirAsia,2020-07-01,2020-07-01,08:20:00,07:00:00,,Flight
+2,Chennai (CHN),Hyderabad (HYD),1450,Spicejet ,2020-07-04,2020-07-04,14:15:00,13:10:00,,Flight
+3,Chennai (CHN),Hyderabad (HYD),400,Shatabdi Express,2020-07-02,2020-07-02,17:00:00,08:05:00,,Train
+4,Hyderabad (HYD),Chennai (CHN),1500,Indigo,2020-07-03,2020-07-03,09:15:00,08:00:00,,Flight
+5,Hyderabad (HYD),Chennai (CHN),1800,AirAsia,2020-07-06,2020-07-06,19:50:00,18:45:00,,Flight
+6,Hyderabad (HYD),Chennai (CHN),550,Hyderabad Express,2020-07-05,2020-07-05,15:30:00,06:00:00,,Train
+7,Chennai (CHN),Mumbai (BOM),2200,Indian Airlines,2020-07-02,2020-06-02,16:55:00,14:50:00,,Flight
+8,Chennai (CHN),Mumbai (BOM),2100,Go Air,2020-07-03,2020-07-03,07:15:00,08:45:00,,Flight
+9,Chennai (CHN),Mumbai (BOM),850,Mumbai Mail,2020-07-14,2020-07-13,09:15:00,10:00:00,,Train
+10,Hyderabad (HYD),Mumbai (BOM),1050,Hussainsagar Express,2020-07-04,2020-07-03,14:45:00,13:20:00,,Train
+11,Hyderabad (HYD),Mumbai (BOM),3300,Vistara,2020-07-08,2020-07-08,09:15:00,07:25:00,,Flight
+12,Mumbai (BOM),Chennai (CHN),920,Chennai Express,2020-07-06,2020-07-05,18:50:00,20:30:00,,Train
+13,Mumbai (BOM),Hyderabad (HYD),1200,Mumbai Express,2020-07-15,2020-07-14,11:15:00,23:45:00,,Train
+14,Numbai (BOM),Chennai (CHN),2100,Indian Airlines,2020-07-02,2020-06-02,16:20:00,14:50:00,,Flight

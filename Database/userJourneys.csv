@@ -1,0 +1,4 @@
+fare,company,mode,username,dateDep,dateArr,timeDep,timeArr,fromCity,toCity,jid
+1600,AirAsia,Flight,ValueLabs,2020-07-01,2020-07-01,07:00:00,08:20:00,Chennai (CHN),Hyderabad (HYD),1
+1450,Spicejet ,Flight,ValueLabs,2020-07-04,2020-07-04,13:10:00,14:15:00,Chennai (CHN),Hyderabad (HYD),2
+400,Shatabdi Express,Train,ValueLabs,2020-07-02,2020-07-02,08:05:00,17:00:00,Chennai (CHN),Hyderabad (HYD),3
